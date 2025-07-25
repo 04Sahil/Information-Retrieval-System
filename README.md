@@ -26,5 +26,6 @@ STEPS:
    streamlit run app.py
 
 # Output:
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/44f1969f-b5ab-4b5c-b25a-ff33428f38eb" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/4a1db5a6-ec36-4d98-9846-3c702390e155" />
+
 
